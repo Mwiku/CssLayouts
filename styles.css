@@ -1,0 +1,18 @@
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+     /* justify-content: space-between; */
+    height: 32px;
+    color: #000000de !important;
+    background-color: #fdc400;
+}
+
+/* .search-input{
+    flex-grow: 1; 
+} */
+
+/* .search-input { */
+    /* justify-content: center; */
+    /* align-items: center; */
+/* } */
